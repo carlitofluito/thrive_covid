@@ -1,7 +1,7 @@
 --- 
 title: "Guide to thrive with Covid"
 author: "Carlos Alcala a.k.a. Carlito Fluito from the.corona.guys"
-date: "`r Sys.Date()`"
+date: "2020-03-14"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: "bibliography.bib"
@@ -47,3 +47,119 @@ This is a whole new situation for many of us. Stress response is commonly divide
 We have to change fear for love. The current paralysis can become in a huge leap forwards if we take this new communitarian approach to the situation. 
 
 ## The goal {-}
+
+<!--chapter:end:index.Rmd-->
+
+# Cohabiting
+
+In our individualistic Europe we are not really use to get along with each other. We feel stress and pressure if we don’t find our “own moments” along the day, but ironically, we cannot leave our smartphones when we go to the toilet.
+
+In the current situation, it is likely that your time alone, may either get reduced or expanded. In case you live by yourself, you can likely suffer from loneliness at some point. In case you live with flat mates, and family member, you better learn how to communicate with each other effectively as soon as possible. 
+
+In any case, I encourage you to get in contact with your neighbors in a safe way (2-meter distance, no physical contact, wash hands afterwards, etc…). The more social assets and resources you have around, the more access to potential help you will have in case you need it.
+
+## Get to know yourself
+
+Before venturing out to others, you better get familiar with the person you are. If you haven’t realized it yet, you are the person with whom you will spend your whole life. Getting to know oneself should be something all of us do all over our lives. However, in times of crisis, it is especially important that you put some conscious effort into getting to know the voice in your head, you habits, tendencies, moods, tempers, emotion management, coping mechanisms…
+
+Let’s take it bit by bit. 
+
+
+### Chronotypes
+
+
+Your chronotype is the rhythm of your brain along the day. If you feel more awake in the morning, you are and early bird. If you are more awake in the evening, you are an owl. ^[You can learn more reading Daniel Pin’s book [*When: The scientific secrets of perfect timing*](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210624) @pink2019scientific]
+
+
+
+### Time alone
+
+### Emotional management
+
+
+## Get to know each other
+
+
+### Check with your neighboors 
+
+<!--chapter:end:01.Rmd-->
+
+# Logistics
+
+## Groceries
+
+## Garbage management
+
+## Transport
+
+## Communication 
+
+/@ref(communication)
+
+<!--chapter:end:02.Rmd-->
+
+# Hygiene {-#chap: logistics}
+
+## Basic attitudes {-##sec: basics}
+
+### Minimalism {-## sec: minimalism}
+
+### Communal thinking {##sec: comun}
+
+## Shopping and home made {-#sec: groceries}
+
+## Parts of the house {-#sec: parts}
+
+### Bathroom {-###subsec: bath}
+
+### Kitchen {-###subsec: kitchen}
+
+### Bedrooms {-###subsec: bed}
+
+### Living room and hall {-###subsec: living}
+
+
+
+
+
+<!--chapter:end:03.Rmd-->
+
+# How to be informed
+
+## It's happenning
+
+
+## Don't overload
+
+## Testimonies
+
+<!--chapter:end:04.Rmd-->
+
+# Free time
+
+
+## Focus on people 
+
+
+
+## Boredom
+
+## Entertainment
+
+<!--chapter:end:05.Rmd-->
+
+# Families with kids
+
+
+## Inform them
+
+
+
+## Entertainment them 
+
+## Keep them clean
+
+@pink2019scientific 
+
+<!--chapter:end:06.Rmd-->
+

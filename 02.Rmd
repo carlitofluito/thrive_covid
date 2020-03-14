@@ -1,10 +1,10 @@
-# Logistics {-#chap: logistics}
+# Logistics
 
-## Groceries {-#sec: groceries}
+## Groceries
 
-## Garbage management {-#sec: garbage}
+## Garbage management
 
-## Transport {-#sec: trasnport}
+## Transport
 
 ## Communication 
 
