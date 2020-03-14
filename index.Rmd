@@ -1,6 +1,6 @@
 ---
 
-title: "Guide to thrive with Covid"
+title: "How to thrive with COVID-19: The guide "
 
 author: "Carlos Alcala a.k.a. Carlito Fluito from the.corona.guys"
 
@@ -31,9 +31,7 @@ description: "An updated reference guide with a compilation of strategies not on
 
 
 > Corona times require corona measures.
-
 >
-
 > the.corona.guys
 
 
