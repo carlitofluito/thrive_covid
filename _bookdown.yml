@@ -2,6 +2,6 @@ book_filename: "Thrive with Covid"
 chapter_name: ""
 repo: https://github.com/carlitofluito/thrive_covid
 output_dir: docs
-rmd_files: ["index.Rmd", "01.Rmd", "02.Rmd",  "references.Rmd"]
+rmd_files: ["index.Rmd", "01.Rmd",   "references.Rmd"]
 clean: 
 new_session: yes

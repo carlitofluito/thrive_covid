@@ -1,7 +1,7 @@
 --- 
 title: "Guide to thrive with Covid"
 author: "Carlos Alcala a.k.a. Carlito Fluito from the.corona.guys"
-date: "`r Sys.Date()`"
+date: "2020-03-14"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: "bibliography.bib"
