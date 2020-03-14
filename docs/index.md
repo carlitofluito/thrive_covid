@@ -4,14 +4,18 @@ author: "Carlos Alcala a.k.a. Carlito Fluito from the.corona.guys"
 date: "2020-03-14"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: 
+bibliography: "bibliography.bib"
 biblio-style: apalike
 link-citations: yes
 github-repo: carlitofluito/thrive_covid
 description: "An updated reference guide with a compilation of strategies not only to survive the corona crisis, but to thrive as a specie thanks to the Covid_19"
 ---
 
+
 # Preface {-}
+
+> Corona times requires corona measures.
+> the.corona.guys
 
 My name is Carlos Alcala, a.k.a Carlito Fluito. Now, a member of *the.corona.guys*. As any of us, I had plans for March and April. Travelling, visit some friends in different countries… However, I am locked down in Berlin.
 
@@ -27,7 +31,7 @@ Let’s use this opportunity to realize that an alternative system is possible. 
 
 The sky is beautifully blue in Berlin. The moon moved, the planet moved.
 
-## This guide {##sec: guide}
+## This guide {-}
 This guide is a document that will be in constant update. Therefore, whatever suggestion you have, please, contact [*the.corona.guys*](mailto: the.corona.guys@gmail.com), and we’ll do our best to make modifications, and add valuable information. 
 
 The guide is envisioned to offer some advice and a strategy for not only surviving but thriving out of the current situation. I have biases. As a European that is locked down at Berlin, I have been raised in an individualizing mindset, surrounded by material wealth, high levels of comfort and security, and within a stablish government that cares for human rights. We are the lucky ones in the world. Many other people are in conditions way worse than us. Remain grateful. 
@@ -36,10 +40,10 @@ By the end of the guide, you should know, what to do and how to respond to the f
 
 The more people can read this guide, the faster we’ll move to a more promising outcome for all of us; and the faster we’ll change the situation not only in the short-term during and after the lockdown; but also, years and years beyond, where we remember the Covid_19 as the beginning of a more sustainable and humane way of living in planet earth. 
 
-## The set up  {-##sec: setup}
+## The set up {-}
 
 This is a whole new situation for many of us. Stress response is commonly divided in three groups: fight, flight, or paralyze. Physically fighting is not possible, because viruses are not threats, we can harm and attack with our bodies. Flight is making lots of people travel to their countries of origins, to stay with families and beloved, which is increasing the risk of propagation of the pandemic. Ironically, this paralyzing situation where many of us are in, it is the most effective way of fighting. 
 
 We have to change fear for love. The current paralysis can become in a huge leap forwards if we take this new communitarian approach to the situation. 
 
-## The goal {-##sec: goal}
+## The goal {-}
