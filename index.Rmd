@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: "bibliography.bib"
-biblio-style: apalike
+biblio-style: "apalike"
 link-citations: yes
 github-repo: carlitofluito/thrive_covid
 description: "An updated reference guide with a compilation of strategies not only to survive the corona crisis, but to thrive as a specie thanks to the Covid_19"
