@@ -6,4 +6,6 @@
 
 ## Transport {-#sec: trasnport}
 
-## Communication {-#sec: communication}
+## Communication 
+
+/@ref(communication)

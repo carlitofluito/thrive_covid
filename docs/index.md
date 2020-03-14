@@ -11,7 +11,7 @@ github-repo: carlitofluito/thrive_covid
 description: "An updated reference guide with a compilation of strategies not only to survive the corona crisis, but to thrive as a specie thanks to the Covid_19"
 ---
 
-# Introduction (Very briefly) {-#chap: intro}
+# Introduction (Very briefly) {#chap: intro}
 
 My name is Carlos Alcala, a.k.a Carlito Fluito. Now, a member of *the.corona.guys*. As any of us, I had plans for March and April. Travelling, visit some friends in different countries… However, I am locked down in Berlin.
 
@@ -27,7 +27,7 @@ Let’s use this opportunity to realize that an alternative system is possible. 
 
 The sky is beautifully blue in Berlin. The moon moved, the planet moved.
 
-## This guide {-##sec: guide}
+## This guide {##sec: guide}
 This guide is a document that will be in constant update. Therefore, whatever suggestion you have, please, contact [*the.corona.guys*](mailto: the.corona.guys@gmail.com), and we’ll do our best to make modifications, and add valuable information. 
 
 The guide is envisioned to offer some advice and a strategy for not only surviving but thriving out of the current situation. I have biases. As a European that is locked down at Berlin, I have been raised in an individualizing mindset, surrounded by material wealth, high levels of comfort and security, and within a stablish government that cares for human rights. We are the lucky ones in the world. Many other people are in conditions way worse than us. Remain grateful. 
