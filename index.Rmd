@@ -11,7 +11,7 @@ github-repo: carlitofluito/thrive_covid
 description: "An updated reference guide with a compilation of strategies not only to survive the corona crisis, but to thrive as a specie thanks to the Covid_19"
 ---
 
-# Introduction (Very briefly) {#chap: intro}
+# Preface {-}
 
 My name is Carlos Alcala, a.k.a Carlito Fluito. Now, a member of *the.corona.guys*. As any of us, I had plans for March and April. Travelling, visit some friends in different countries… However, I am locked down in Berlin.
 
