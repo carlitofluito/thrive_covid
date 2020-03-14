@@ -15,6 +15,7 @@ description: "An updated reference guide with a compilation of strategies not on
 # Preface {-}
 
 > Corona times requires corona measures.
+>
 > the.corona.guys
 
 My name is Carlos Alcala, a.k.a Carlito Fluito. Now, a member of *the.corona.guys*. As any of us, I had plans for March and April. Travelling, visit some friends in different countries… However, I am locked down in Berlin.
@@ -47,3 +48,7 @@ This is a whole new situation for many of us. Stress response is commonly divide
 We have to change fear for love. The current paralysis can become in a huge leap forwards if we take this new communitarian approach to the situation. 
 
 ## The goal {-}
+
+As you have probably heard, the goal now is flatten the curve. Things don’t look too ugly at the moment, and none of us wants that they get really ugly. However, things can get ugly. Check [Tomas Pueyo’s article]( https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) while I am writing the guide. You will get the idea why it is necessary that everybody collaborates and stays at home. We don’t want to collapse the whole system. It is important that we are conscious about what is going on and what is coming. 
+
+We, all of us, have to act now. Stay at home, keep reading.
