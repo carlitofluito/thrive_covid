@@ -1,38 +1,22 @@
 ---
-
 title: "How to thrive with COVID-19: The guide "
-
 author: "Carlos Alcala a.k.a. Carlito Fluito from the.corona.guys"
-
-date: "2020-03-14"
-
+date: "2020-03-18"
 site: bookdown::bookdown_site
-
 documentclass: book
-
 bibliography: "bibliography.bib"
-
 biblio-style: "apalike"
-
 link-citations: yes
-
 github-repo: carlitofluito/thrive_covid
-
 description: "An updated reference guide with a compilation of strategies not only to survive the corona crisis but to thrive as a species thanks to the Covid_19"
-
 ---
-
-
-
-
 
 # Preface {-}
 
-
-
 > Corona times require corona measures.
 >
-> the.corona.guys
+> *the.corona.guys* 
+
 
 
 
@@ -66,7 +50,7 @@ The sky is beautifully blue in Berlin. The moon moved, the planet moved.
 
 ## This guide {-}
 
-This guide is a document that will be in constant update. Therefore, whatever suggestion you have, please, contact [*the.corona.guys*](mailto: the.corona.guys@gmail.com), and we’ll do our best to make modifications, and add valuable information.
+This guide is a document that will be in constant update. Therefore, whatever suggestion you have, please, contact [*the.corona.guys*](https://www.instagram.com/the.corona.guys/?hl=en), and we’ll do our best to make modifications, and add valuable information.
 
 
 
@@ -103,4 +87,7 @@ As you have probably heard, the goal now is to flatten the curve. Things don’t
 
 
 We, all of us, have to act now. Stay at home, keep reading.
+
+
+
 
