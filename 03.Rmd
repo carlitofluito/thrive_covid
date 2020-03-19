@@ -1,23 +1,56 @@
-# Hygiene {-#chap: logistics}
+# Hygiene and health
 
-## Basic attitudes {-##sec: basics}
+- **Minimalism**
 
-### Minimalism {-## sec: minimalism}
+## Shopping and home made 
 
-### Communal thinking {##sec: comun}
+### Cleaning products
 
-## Shopping and home made {-#sec: groceries}
+### Sanity products
 
-## Parts of the house {-#sec: parts}
+- **Toilet paper**
 
-### Bathroom {-###subsec: bath}
+### Masks
 
-### Kitchen {-###subsec: kitchen}
+### Pharmacy
 
-### Bedrooms {-###subsec: bed}
-
-### Living room and hall {-###subsec: living}
+### Basic health care
 
 
+## Basic attitudes 
+
+### Minimalism 
+
+### Communal thinking 
+
+
+
+## Parts of the house 
+
+### Bathroom 
+
+### Kitchen 
+
+- **Freezer**
+
+- **Minimalism**
+
+### Bedrooms 
+
+- **Door knobs**
+
+
+
+### Living room and hall 
+
+- **Coats on the hall**
+
+### Quarantine room
+
+
+
+### Others
+
+- **Smartphone**
 
 
