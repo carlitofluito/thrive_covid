@@ -65,6 +65,8 @@ By the end of the guide, you should know, what to do and how to respond to the f
 The more people can read this guide, the faster we’ll move to a more promising outcome for all of us; and the faster we’ll change the situation not only in the short-term during and after the lockdown; but also, years and years beyond, where we remember the Covid_19 as the beginning of a more sustainable and humane way of living on planet earth.
 
 
+If you want to help me as individual, writer and dancer, you can support me on [Patreon](https://www.patreon.com/carlitofluito)^[Today is 2020-03-21 and I have 0 supporters. You may want to be the first :-)] As many others, my current income is 0€ per month. However, I hope I am bringing some value to the whole society. If you want to reward me, you can. ^[I also much appreciate *Thank you* emails.]
+
 
 ## The setup {-}
 
