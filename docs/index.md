@@ -15,12 +15,12 @@ description: "An updated reference guide with a compilation of strategies not on
 
 > Corona times require corona measures.
 >
-> *the.corona.guys* 
+> *Carlito Fluito* 
 
 
 
 
-My name is Carlos Alcala, a.k.a Carlito Fluito. Now, a member of *the.corona.guys*. Like many of us, I had plans for March and April. Traveling, visiting some friends in different countries… However, now I am locked down in Berlin.
+My name is Carlos Alcala, a.k.a Carlito Fluito. Like many of us, I had plans for March and April. Traveling, visiting some friends in different countries… However, now I am locked down in Berlin.
 
 
 
@@ -50,7 +50,7 @@ The sky is beautifully blue in Berlin. The moon moved, the planet moved.
 
 ## This guide {-}
 
-This guide is a document that will be in constant update. Therefore, whatever suggestion you have, please, contact [*the.corona.guys*](https://www.instagram.com/the.corona.guys/?hl=en), and we’ll do our best to make modifications, and add valuable information.
+This guide is a document that will be in constant update. Therefore, whatever suggestion you have, please, contact [*the.corona.guys*](https://www.instagram.com/the.corona.guys/?hl=en) or [Carlito Fluito](https://www.instagram.com/carlitofluito/?hl=en), and we’ll do our best to make modifications, and add valuable information.
 
 
 
