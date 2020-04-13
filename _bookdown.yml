@@ -3,6 +3,6 @@ chapter_name: ""
 repo: https://github.com/carlitofluito/thrive_covid
 output_dir: docs
 rmd_files: ["index.Rmd", "01.Rmd", "02.Rmd", "03.Rmd", "04.Rmd", "06.Rmd", 
-"testimony.Rmd", "references.Rmd"]
+"testimony.Rmd", "predictions.Rmd", "references.Rmd"]
 clean: 
 new_session: yes
