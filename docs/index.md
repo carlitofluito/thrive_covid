@@ -1,7 +1,7 @@
 ---
 title: "How to thrive with COVID-19: The guide "
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2020-04-13"
+date: "2020-04-14"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: "bibliography.bib"
